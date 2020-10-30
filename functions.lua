@@ -1,6 +1,6 @@
 
 
-local metrics = {} -- { { count=, time= }, ... }
+local metrics = {} -- { fn_name = { count=, time= }, ... }
 
 
 function register_function(name)
