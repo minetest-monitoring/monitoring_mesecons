@@ -1,7 +1,7 @@
 
 # Monitoring extension for mesecons
 
-Base-mod: https://github.com/thomasrudin-mt/monitoring
+Base-mod: https://github.com/minetest-monitoring/monitoring
 
 # Metrics
 
