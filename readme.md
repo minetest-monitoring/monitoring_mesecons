@@ -8,9 +8,9 @@ Base-mod: https://github.com/thomasrudin-mt/monitoring
 * mesecons_action_queue_count *number of action queue items*
 * various, see `metrics.lua`
 
-# Settings
+# Chat commands
 
-* **monitoring.mesecons.verbose** more metrics
+* **/mesecons_verbose_monitoring [true|false]** enable or disable the verbose mesecons monitoring
 
 # License
 
